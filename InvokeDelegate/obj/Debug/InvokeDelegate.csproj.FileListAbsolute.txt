@@ -1,0 +1,7 @@
+C:\Users\thanya.n\source\repos\Examples\InvokeDelegate\bin\Debug\InvokeDelegate.exe.config
+C:\Users\thanya.n\source\repos\Examples\InvokeDelegate\bin\Debug\InvokeDelegate.exe
+C:\Users\thanya.n\source\repos\Examples\InvokeDelegate\bin\Debug\InvokeDelegate.pdb
+C:\Users\thanya.n\source\repos\Examples\InvokeDelegate\obj\Debug\InvokeDelegate.csproj.AssemblyReference.cache
+C:\Users\thanya.n\source\repos\Examples\InvokeDelegate\obj\Debug\InvokeDelegate.csproj.CoreCompileInputs.cache
+C:\Users\thanya.n\source\repos\Examples\InvokeDelegate\obj\Debug\InvokeDelegate.exe
+C:\Users\thanya.n\source\repos\Examples\InvokeDelegate\obj\Debug\InvokeDelegate.pdb
